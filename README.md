@@ -41,8 +41,7 @@
 <!-- Profile View Count and GitStats -->
 
 ![](https://komarev.com/ghpvc/?username=belikeamitesh&style=flat)
-[![Github](https://img.shields.io/badge/-belikeamitesh-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/belikeamitesh)
-
+<p align="left"> <a href="https://twitter.com/beikeamitesh" target="blank"><img src="https://img.shields.io/twitter/follow/belikeamitesh?logo=twitter&style=for-the-badge" alt="belikeamitesh" /></a> </p>
 
 
 <code>
