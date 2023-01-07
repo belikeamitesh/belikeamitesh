@@ -72,6 +72,6 @@
   </p>
 <code>
    
-   ![snake gif](https://github.com/belikeamitesh/belikeamitesh/blob/output/github-contribution-grid-snake.gif)
+<!--    ![snake gif](https://github.com/belikeamitesh/belikeamitesh/blob/output/github-contribution-grid-snake.gif) -->
    
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
