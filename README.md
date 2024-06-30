@@ -44,10 +44,7 @@
 
 ![](https://komarev.com/ghpvc/?username=belikeamitesh&style=flat)
 <p align="left"> <a href="https://twitter.com/beikeamitesh" target="blank"><img src="https://img.shields.io/twitter/follow/belikeamitesh?logo=twitter&style=for-the-badge" alt="belikeamitesh" /></a> </p>
-
-
 <code>
-  
   <div align="center">
     <h2>Statistics</h2>
     <a href="https://github.com/belikeamitesh">
